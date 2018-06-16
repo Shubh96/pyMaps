@@ -1,1 +1,5 @@
 # pyMaps
+[pyMaps](https://github.com/Shubh96/pyMaps) is a web application developed using [Python](https://www.python.org/) programming language version 3.6.1 in [Anaconda](https://anaconda.org/anaconda/python) environment. To build the webmap two data sets have been used, one is a text file, [Volcanoes_USA](https://github.com/Shubh96/pyMaps/blob/master/Volcanoes_USA.txt), which contains data about the various volcanoes in the USA and other data set is a [JSON](https://www.json.org/) file, [Population](https://github.com/Shubh96/pyMaps/blob/master/Population.json), that contains data about the population of every country in the world as on 2005 along with several other information.
+
+## Dependencies
+In the code, we have used two modules viz a viz, [folium](http://folium.readthedocs.io/en/latest/), which is a module used for data manipulation using data wrangling in python and then visualizing it on a Leaflet map and [pandas](https://pandas.pydata.org/), is a library used for data analysis in python.

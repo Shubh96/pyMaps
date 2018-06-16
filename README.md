@@ -14,3 +14,7 @@ In the code, we have used two modules viz a viz, [folium](http://folium.readthed
 - ``Lines 44 - 55`` are used to generate the information string that is shown in the popup upon clicking the volcano markers.
 - As you can see ``Lines 35, 36, 42, 54`` are commented, these were used to create the Metropolis.html file which shows the markers for metropolitan cities in India.
 - Lastly, I've added all the layers to the map in ``lines 58 and 59`` and ``line 59`` contains the ``LayerControl()`` method which is basically used to generate a control for the user using which the user can choose to display the layer he wants to see in the map, either  volcano information or population information.
+
+## Screenshots
+
+![Markers denoting metropolitan cities in India](https://github.com/Shubh96/pyMaps/blob/master/metropolis.JPG)

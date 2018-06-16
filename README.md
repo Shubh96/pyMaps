@@ -18,3 +18,11 @@ In the code, we have used two modules viz a viz, [folium](http://folium.readthed
 ## Screenshots
 
 ![Markers denoting metropolitan cities in India](https://github.com/Shubh96/pyMaps/blob/master/metropolis.JPG)
+
+![Using Control Layer to show only population information](https://github.com/Shubh96/pyMaps/blob/master/noVolcanoes.JPG)
+
+![Using control layer to show volcanoes information](https://github.com/Shubh96/pyMaps/blob/master/volcanoesInfo.JPG)
+
+![Volcanoes and Population information](https://github.com/Shubh96/pyMaps/blob/master/volcanoesMarker.JPG)
+
+![Entire webmap](https://github.com/Shubh96/pyMaps/blob/master/worldPopulationData.JPG)
